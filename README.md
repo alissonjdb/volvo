@@ -3,7 +3,7 @@
   All the code required to get started
 
 *Clone
-  Clone this repo to your local machine using https://github.com/alissonjdb/VolvoTest.git
+  Clone this repo to your local machine using https://github.com/alissonjdb/Volvo.git
   
 *Setup
 
